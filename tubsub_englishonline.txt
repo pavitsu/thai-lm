@@ -51,7 +51,7 @@ brake = เบรก
 bridge = บริดจ์
 broadband = บรอดแบนด์
 browser = เบราว์เซอร์
-burger
+burger = เบอร์เกอร์
 buffer = บัฟเฟอร์
 bus = บัส
 byte = ไบต์
