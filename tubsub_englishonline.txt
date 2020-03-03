@@ -1,4 +1,3 @@
-คำทับศัพท์ภาษาอังกฤษหมวด a
 acre = เอเคอร์
 acrylic = อะคริลิก
 address = แอดเดรส
@@ -26,7 +25,6 @@ auto = ออโต
 auto = ออโต้
 automation = ออโตเมชั่น
 automobile = ออโตโมบิล
-คำทับศัพท์ภาษาอังกฤษหมวด b
 bacteria = แบคทีเรีย
 badminton = แบดมินตัน
 ball = บอล
@@ -55,7 +53,6 @@ burger = เบอร์เกอร์
 buffer = บัฟเฟอร์
 bus = บัส
 byte = ไบต์
-คำทับศัพท์ภาษาอังกฤษหมวด c
 cable = เคเบิล
 cache = แคช
 caffeine = คาเฟอีน
@@ -132,7 +129,6 @@ cursor = เคอร์เซอร์
 cyber = ไซเบอร์
 cycle = ไซเคิล
 cyclone = ไซโคลน
-คำทับศัพท์ภาษาอังกฤษหมวด d
 debit = เดบิต
 decibel = เดซิเบล
 degree = ดีกรี
@@ -153,7 +149,6 @@ download = ดาวน์โหลด
 drive = ไดร์ฟ
 dummy = ดัมมี
 dynamo = ไดนาโม
-คำทับศัพท์ภาษาอังกฤษหมวด e
 e-commerce = อีคอมเมิร์ซ
 electone = อิเล็กโทน
 electron = อิเล็กตรอน
@@ -161,7 +156,6 @@ electronics = อิเล็กทรอนิกส์
 email = อีเมล
 enzyme = เอนไซม์
 espresso = เอสเพรสโซ
-คำทับศัพท์ภาษาอังกฤษหมวด f
 factor = แฟกเตอร์
 FAX = แฟกซ์
 fiber = ไฟเบอร์
@@ -178,7 +172,6 @@ frame = เฟรม
 freeware = ฟรีแวร์
 function = ฟังก์ชัน
 fuse = ฟิวส์
-คำทับศัพท์ภาษาอังกฤษหมวด g
 galaxy = กาแล็กซี
 gamma = แกมมา
 gas = แก๊ส
@@ -194,7 +187,6 @@ graph = กราฟ
 graphic = กราฟิก
 graphics = กราฟิกส์
 graphite = แกรไฟต์
-คำทับศัพท์ภาษาอังกฤษหมวด h
 haemoglobin = เฮโมโกลบิน
 harddisk = ฮาร์ดดิสก์
 hardware = ฮาร์ดแวร์
@@ -211,7 +203,6 @@ hotdog = ฮอทดอก
 hub = ฮับ
 hydraulic = ไฮดรอลิก
 hydrogen = ไฮโดรเจน
-คำทับศัพท์ภาษาอังกฤษหมวด i
 image = อิมเมจ
 infrared = อินฟราเรด
 input = อินพุต
@@ -219,18 +210,15 @@ internet = อินเทอร์เน็ต
 intranet = อินทราเน็ต
 ion = ไอออน
 ISO = ไอเอสโอ
-คำทับศัพท์ภาษาอังกฤษหมวด j
 jackpot = แจ็กพอต
 Java = จาวา
 JavaScript = จาวาสคริปต์
 jeans = ยีนส์
 JPEG = เจเพ็ก
-คำทับศัพท์ภาษาอังกฤษหมวด k
 kilobit = กิโลบิต
 kilobyte = กิโลไบต์
 kilohertz = กิโลเฮิร์ต
 knock = น็อก
-คำทับศัพท์ภาษาอังกฤษหมวด l
 LAN = แลน
 laptop = แล็ปท็อป
 laser = เลเซอร์
@@ -245,7 +233,6 @@ load = โหลด
 lock = ล็อก
 locket = ล็อกเกต
 lottery = ลอตเตอรี่
-คำทับศัพท์ภาษาอังกฤษหมวด m
 macro = แมโคร
 major = เมเจอร์
 matrix = แมทริกซ์
@@ -267,7 +254,6 @@ motor = มอเตอร์
 mouse = เมาส์
 mummy = มัมมี่
 mustard = มัสตาร์ด
-คำทับศัพท์ภาษาอังกฤษหมวด n
 netball = เนตบอล
 network = เน็ตเวิร์ก
 nightclub = ไนต์คลับ
@@ -275,7 +261,6 @@ note = โน้ต
 notebook = โน้ตบุ๊ก
 notepad = โน้ตแพด
 nucleus = นิวเคลียส
-คำทับศัพท์ภาษาอังกฤษหมวด o
 oasis = โอเอซิส
 octane = ออกเทน
 Olympic = โอลิมปิค
@@ -283,7 +268,6 @@ ounce = ออนซ์
 output = เอาต์พุต
 oxidation = ออกซิเดชัน
 oxygen = ออกซิเจน
-คำทับศัพท์ภาษาอังกฤษหมวด p
 panel = แพเนล
 parabola = พาราโบลา
 parameter = พารามิเตอร์
@@ -312,11 +296,9 @@ pulse = พัลส์
 pump = ปั๊ม
 punk = พังก์
 pyramid = พีระมิด
-คำทับศัพท์ภาษาอังกฤษหมวด q
 quartz = ควอตซ์
 queue = คิว
 quota = โควตา
-คำทับศัพท์ภาษาอังกฤษหมวด r
 racket = แร็กเกต
 radar = เรดาร์
 RAM = แรม
@@ -325,7 +307,6 @@ relay = รีเลย์
 resin = เรซิน
 ROM = รอม
 Roman Catholic = โรมันคาทอลิก
-คำทับศัพท์ภาษาอังกฤษหมวด s
 sauce = ซอส
 save = เซฟ
 scale = สเกล
@@ -353,7 +334,6 @@ stuff = สตัฟฟ์
 super = ซูเปอร์
 superior = ซุพีเรียร์
 switch = สวิตช์
-คำทับศัพท์ภาษาอังกฤษหมวด t
 tape = เทป
 taxi = แท็กซี่
 technique = เทคนิค
@@ -370,11 +350,9 @@ torque = ทอร์ก
 tractor = แทรกเตอร์
 transistor = ทรานซิสเตอร์
 typhoon = ไต้ฝุ่น
-คำทับศัพท์ภาษาอังกฤษหมวด u
 ultraviolet = อัลตราไวโอเลต
 unit = ยูนิต
 upload = อัปโหลด
-คำทับศัพท์ภาษาอังกฤษหมวด v
 vaccine = วัคซีน
 valve = วาล์ว
 vector = เวกเตอร์
@@ -382,7 +360,6 @@ video = วีดีโอ
 virus = ไวรัส
 vitamin = วิตามิน
 volleyball = วอลเลย์บอล
-คำทับศัพท์ภาษาอังกฤษหมวด w
 watt = วัตต์
 wave = เวฟ
 web = เว็บ
@@ -392,12 +369,9 @@ web page = เว็บเพจ
 web site = เว็บไซต์
 whisky = วิสกี้
 Windows = วินโดวส์
-คำทับศัพท์ภาษาอังกฤษหมวด x
 x-ray = เอกซเรย์
-คำทับศัพท์ภาษาอังกฤษหมวด y
 yacht = เรือยอช
 yeast = ยีสต์
-คำทับศัพท์ภาษาอังกฤษหมวด z
 zigzag = ซิกแซ็ก
 zone = โซน
 zoom = ซูม
